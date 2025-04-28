@@ -92,6 +92,6 @@ This project aims to quantify the complexity of the solar magnetic field using p
 For any queries, collaborations, or further discussions regarding this project, please contact mm748@snu.edu.in.
 
 
-# Notes
+## Notes
 - This project demonstrates proficiency in scientific computing, image analysis, feature engineering, and supervised machine learning workflows.
 - The work is designed to be extendable for future research or professional applications in computational astrophysics and space weather modeling.
