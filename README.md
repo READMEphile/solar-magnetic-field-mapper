@@ -78,17 +78,17 @@ The system generates realistic solar magnetogram simulations, extracts physicall
 Magnetic activity on the solar surface, particularly in complex sunspot regions, is a key driver of solar flare events.  
 This project aims to quantify the complexity of the solar magnetic field using physical and statistical features and utilise these indicators for predictive modelling of solar flares, an important aspect of space weather forecasting.
 
-# Possible Future Enhancements
+## Possible Future Enhancements
 - Integration of real Solar Dynamics Observatory (SDO) HMI data via NASA public data repositories.
 - Development of deep learning-based prediction models utilising raw magnetogram images.
 - The system will be deployed as a MATLAB App Designer application for improved user interaction.
 - Expansion to longer-term (multi-day) flare prediction frameworks.
 
-# Acknowledgments
+## Acknowledgments
 - Data inspiration from the Solar Dynamics Observatory (SDO) mission.
 - Techniques motivated by current research in solar physics and space weather prediction.
 
-# Contact
+## Contact
 For any queries, collaborations, or further discussions regarding this project, please contact mm748@snu.edu.in.
 
 
